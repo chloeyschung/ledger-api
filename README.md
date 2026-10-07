@@ -1,7 +1,7 @@
 # ledger-api — 가계부 API (FastAPI + Supabase PostgreSQL)
 
 - GitHub: https://github.com/chloeyschung/ledger-api
-- Render: (배포 후 기입)
+- Render: https://ledger-api-o4u9.onrender.com (API 문서: https://ledger-api-o4u9.onrender.com/docs)
 
 클라우드컴퓨팅실습 4주차 과제. FastAPI + SQLAlchemy 2.0으로 만든 가계부 API를 Render에 배포하고, 환경변수 `DATABASE_URL`로 Supabase(PostgreSQL, Session pooler)에 연결한다.
 
